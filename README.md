@@ -1,6 +1,6 @@
 # SightOn
 ![](https://github.com/ZSoumia/SightOn/blob/master/SightOnJava/src/FXML/Images/icone.png)
-Spot suspicious movements in the environment to actuate an electronic circuit 
+Spot suspicious movements in the environment to actuate an electronic circuit.
 
 
 ## 1. Introduction :
